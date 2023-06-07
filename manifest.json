@@ -1,0 +1,17 @@
+{
+  "name": "Sketch.Payroll",
+  "short_name": "S.Payroll",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display" : "standalone",
+  "Scope": "/",
+  "start_url": "https://hrpayrollsoft.com/",
+  "orientation": "any",
+   "icons": [
+        {
+            "src": "https://hrpayrollsoft.com/assets/img/pwa_image.png",
+            "sizes": "144x144"
+        }
+  ],
+  "splash_pages": null
+}

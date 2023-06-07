@@ -1,0 +1,5 @@
+Description,Please enter Rf no,Please enter the first name ,Please enter the middle name ,Please enter the last name ,Please enter the Deparment name ,Please enter the Designation name ,Please enter Male / Female,dd-mm-YYYY,dd-mm-YYYY,10 digit mobile number,Please enter valid email ID,Please enter religion,Please enter Trainee/Provisional/Contractual/Permanent,Please enter the grade name ,Please enter the work shift name 
+Sl No.,RF No,First Name,Middle Name,Last Name,Department,Designation,Gender,Date of Birth,Joining date,Mobile No,Email ID,Religion ,Status,Grade,Workshift
+1,111,csv1,,Ghosh1,Development ,IT Project Manager,Male,26-11-1994,19-11-2019,9856745375,test1@gmail.com,Hindu,Permanent,A,Default Shift 11:00
+2,112,csv2,,Ghosh2,Development ,IT Project Manager,Female,12-11-1997,03-11-2019,7685674333,test2@gmail.com,Hindu,Permanent,A,Default Shift 11:00
+3,113,csv3,,Ghosh3,Development ,IT Project Manager,Male,06-11-1994,06-11-2019,8786866464,test3@gmail.com,Hindu,Permanent,A,Default Shift 11:00

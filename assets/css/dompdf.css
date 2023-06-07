@@ -1,0 +1,35 @@
+@page{size:A4 !important; margin:4mm !important}
+html,*,body{font-family: Trebuchet, Arial, sans-serif !important; color: #000 !important;}
+.table{cellpadding:0; cellspacing:0; width:100%; border-collapse: collapse;font-size: 12px}
+
+.payslip-wrapper{width:600px; margin: 0 auto;}
+
+.table td{border: 0;}
+.table-payslip-main{width:100%; font-family: 'Arial', Arial, sans-serif; border:0; margin: 0}            
+.table-payslip-main>tbody>tr>td{padding:0;}            
+.table{width:100%; font-family: 'Arial', Arial, sans-serif; border:0; margin: 0}
+.table-ps-header>tbody>tr>td{border:0;padding:0;}
+.table-ps-header>tbody>tr>td h1{font-size: 18px; margin: 0 0 10px}
+.table-ps-header>tbody>tr>td p{font-size: 13px;}
+
+.table-emp-dtls{border: 1px solid #000; margin: 15px 0 5px}
+.table-emp-dtls>tbody>tr>td{padding: 4px 6px;}
+
+.table-attendance-leave{border: 1px solid #000; margin: 5px 0}
+.table-attendance-leave>tbody>tr:first-child>td{border-bottom: 1px solid #000}
+.table-attendance-leave>tbody>tr>td{padding: 4px 6px;}
+.table-attendance-leave>tbody>tr>td:first-child,.table-attendance-leave>tbody>tr>td:nth-child(3){width:100px}
+.table-attendance-leave>tbody>tr>td:nth-child(2),.table-attendance-leave>tbody>tr>td:nth-child(4){width:50px; text-align: right}
+.table-attendance-leave>tbody>tr>td:nth-child(2){border-right: 1px solid #000}
+
+.table-ed-main{margin: 5px 0}
+.table-ed-main>tbody>tr>td{width:50%;padding: 0; border:1px solid #000; vertical-align: top; font-size: 8px}
+
+.table-earning>tbody>tr>td,.table-deduction>tbody>tr>td{padding: 4px 6px;}
+.table-earning>tbody>tr>td:last-child,.table-earning>tbody>tr>td:nth-child(2),.table-deduction>tbody>tr>td:last-child{text-align: right}            
+.table-earning>tbody>tr:first-child>td,.table-deduction>tbody>tr:first-child>td{text-align: left; border-bottom: 1px solid #000}
+
+.table-netsalary{border: 1px solid #000; margin: 5px 0} 
+.table-netsalary>tbody>tr>td{padding: 4px 6px;}
+
+.comp-generated{text-align: center; font-size: 9px; padding: 5px}

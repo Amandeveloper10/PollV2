@@ -17,5 +17,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ftp.demo.hrpayrollsoft.xyz
-        username: demo@demo.hrpayrollsoft.xyz
-        password: Z5E}Ip-VTUa8
+        username: Aman1991Codez@demo.hrpayrollsoft.xyz
+        password: Ik+miwGaw*_D

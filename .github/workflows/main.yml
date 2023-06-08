@@ -16,6 +16,6 @@ jobs:
     - name:  Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ftp.hrpayrollsoft.xyz
-        username: Aman1991Codez@demo.hrpayrollsoft.xyz
-        password: Ik+miwGaw*_D  
+        server: ftp.demo.hrpayrollsoft.xyz
+        username: demo@demo.hrpayrollsoft.xyz
+        password: +te#-,x*_Z?N
